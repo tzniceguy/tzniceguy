@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">I am a Tech Nerd,python enthusiast passionate Programmer from Tanzania</h3>
+<h3 align="center">I am a Tech Nerd,python enthusiast from Tanzania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tzniceguy&label=Profile%20views&color=0e75b6&style=flat" alt="tzniceguy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tzniceguy" target="blank"><img src="https://img.shields.io/twitter/follow/tzniceguy?logo=twitter&style=for-the-badge" alt="tzniceguy" /></a> </p>
 
-- 🌱 I’m currently learning **Flask,Django,Tensorflow,Flutter,Database systems,Blockchain**
+- 🌱 I’m currently learning **Python, Golang**
 
 - 👨‍💻 All of my projects are available at [tzniceguy.github.io](tzniceguy.github.io)
 
-- 💬 Ask me about **Python,cryptocurrencies**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **itstzniceguy@gmail.com**
 
