@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **twiiter.com/tzniceguy**
-
 - ⚡ Fun fact **I like Gaming**
 
 <h3 align="left">Connect with me:</h3>
