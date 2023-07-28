@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Just A TECH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tzniceguy&label=Profile%20views&color=0e75b6&style=flat" alt="tzniceguy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tzniceguy" target="blank"><img src="https://img.shields.io/twitter/follow/tzniceguy?logo=twitter&style=for-the-badge" alt="tzniceguy" /></a> </p>
+- [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzniceguy)](https://github.com/tzniceguy/github-readme-stats)
 
 - 🌱 I’m currently learning **Python, Golang**
 
 - 👨‍💻 All of my projects are available at [tzniceguy.github.io](tzniceguy.github.io)
-
-- [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzniceguy)](https://github.com/tzniceguy/github-readme-stats)
 
 - 💬 Ask me about **Python**
 
