@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Just A TECH</h3>
 
-- [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzniceguy)](https://github.com/tzniceguy/github-readme-stats)
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzniceguy)](https://github.com/tzniceguy/github-readme-stats)
 
 - 🌱 I’m currently learning **Python, Golang**
 
