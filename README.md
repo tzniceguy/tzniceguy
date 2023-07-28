@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [tzniceguy.github.io](tzniceguy.github.io)
 
+- [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzniceguy)](https://github.com/tzniceguy/github-readme-stats)
+
 - 💬 Ask me about **Python**
 
 - ⚡ Fun fact **I like Gaming**
