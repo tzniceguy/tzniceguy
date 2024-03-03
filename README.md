@@ -3,7 +3,7 @@
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzniceguy)](https://github.com/tzniceguy/github-readme-stats)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javacript**
 
 - 👨‍💻 All of my projects are available at [tzniceguy.github.io](tzniceguy.github.io)
 
