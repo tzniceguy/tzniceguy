@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">A web enthusiast from Tanzania</h3>
+<h1 align="center">Joe</h1>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tzniceguy" alt="tzniceguy" /></a> </p>
 
