@@ -1,10 +1,6 @@
 <h1 align="center">Joe</h1>
 <h3 align="center">Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tzniceguy" alt="tzniceguy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tzniceguy" target="blank"><img src="https://img.shields.io/twitter/follow/tzniceguy?logo=twitter&style=for-the-badge" alt="tzniceguy" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [tzniceguy.vercel.app](tzniceguy.vercel.app)
 
 - 💬 Ask me about **python, javascript**
